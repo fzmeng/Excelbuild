@@ -1,4 +1,4 @@
-package com.mfz.study.util.design;
+package com.mfz.study.util.exceldesign;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

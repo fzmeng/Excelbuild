@@ -1,4 +1,4 @@
-package com.mfz.study.util.design;
+package com.mfz.study.util.exceldesign;
 
 /**
  * @Description: 默认获取属性值

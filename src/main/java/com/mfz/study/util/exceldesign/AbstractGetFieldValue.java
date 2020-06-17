@@ -1,4 +1,4 @@
-package com.mfz.study.util.design;
+package com.mfz.study.util.exceldesign;
 
 /**
  * @Description: 获得属性值抽象

@@ -1,8 +1,8 @@
 package com.mfz.study.util;
 
 import com.alibaba.fastjson.JSONObject;
-import com.mfz.study.util.design.BaseSetContentInterface;
-import com.mfz.study.util.design.TestController;
+import com.mfz.study.util.exceldesign.BaseSetContentInterface;
+import com.mfz.study.util.exceldesign.TestController;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
